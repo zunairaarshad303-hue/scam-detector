@@ -39,6 +39,11 @@ These results describe the machine-learning model on the held-out test set.
 
 ## Limitations
 The model uses general English SMS data and may not detect every real-world or region-specific financial scam. It is an educational prototype, not a guarantee of safety.
+**AI Development Assistance:** ChatGPT by OpenAI (https://chatgpt.com/) — used for project planning, coding assistance, debugging, explanations, and development guidance.
+
+**Dataset:** UCI SMS Spam Collection.
+
+**Libraries:** Python, Pandas, Scikit-learn and other libraries used in the project.
 
 ## Future Improvements
 - Pakistani financial scam datasets
